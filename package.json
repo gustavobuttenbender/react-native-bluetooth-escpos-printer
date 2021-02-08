@@ -1,11 +1,36 @@
 {
-  "name": "react-native-bluetooth-escpos-printer",
-  "version": "0.0.6",
-  "description": "React-Native plugin for the bluetooth ESC/POS printers.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      "react-native-bluetooth-escpos-printer@0.0.5",
+      "/Users/gustavobuttenbenderrodrigues/Projetos/GPA/gpa-prescan"
+    ]
+  ],
+  "_from": "react-native-bluetooth-escpos-printer@0.0.5",
+  "_id": "react-native-bluetooth-escpos-printer@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-a+GTlz8dctb48wkoJ8woE7gV24NCOoA13J95A+RFEKhjONEWf3/dP5pIqrrlO5fsf/2QYDeMfU3P8bIVQoEqig==",
+  "_location": "/react-native-bluetooth-escpos-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-bluetooth-escpos-printer@0.0.5",
+    "name": "react-native-bluetooth-escpos-printer",
+    "escapedName": "react-native-bluetooth-escpos-printer",
+    "rawSpec": "0.0.5",
+    "saveSpec": null,
+    "fetchSpec": "0.0.5"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-bluetooth-escpos-printer/-/react-native-bluetooth-escpos-printer-0.0.5.tgz",
+  "_spec": "0.0.5",
+  "_where": "/Users/gustavobuttenbenderrodrigues/Projetos/GPA/gpa-prescan",
+  "author": {
+    "name": "janus j k lu"
+  },
+  "description": "React-Native plugin for the bluetooth ESC/POS printers.",
   "keywords": [
     "react-native",
     "ESC",
@@ -13,9 +38,14 @@
     "Bluetooth",
     "Printer"
   ],
-  "author": "janus j k lu",
   "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-bluetooth-escpos-printer",
   "peerDependencies": {
     "react-native": ">=0.55.4"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.5"
 }
